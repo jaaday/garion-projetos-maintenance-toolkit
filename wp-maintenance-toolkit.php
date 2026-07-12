@@ -1,11 +1,12 @@
 <?php
 /**
- * Plugin Name: WordPress Maintenance Toolkit
+ * Plugin Name: WP Maintenance Toolkit
  * Description: Otimização e manutenção de sites WordPress — limpeza de banco, cache, Heartbeat API e diagnóstico.
  * Version: 0.1.0
  * Author: Garion Projetos
- * License: GPL-2.0+
- * Text Domain: wordpress-maintenance-toolkit
+ * License: GPLv2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain: wp-maintenance-toolkit
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
