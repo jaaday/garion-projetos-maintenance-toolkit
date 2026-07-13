@@ -24,8 +24,8 @@ Plugin WordPress para otimização, limpeza e manutenção de sites.
 ## Estrutura
 
 ```
-maintenance-toolkit/
-├── maintenance-toolkit.php
+garion-projetos-maintenance-toolkit/
+├── garion-projetos-maintenance-toolkit.php
 ├── includes/
 ├── admin/
 └── assets/

@@ -1,12 +1,12 @@
 <?php
 /**
- * Plugin Name: Maintenance Toolkit
+ * Plugin Name: Garion Projetos Maintenance Toolkit
  * Description: WordPress site optimization and maintenance: database cleanup, cache, Heartbeat API control and diagnostics.
  * Version: 0.1.0
  * Author: Garion Projetos
  * License: GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain: maintenance-toolkit
+ * Text Domain: garion-projetos-maintenance-toolkit
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

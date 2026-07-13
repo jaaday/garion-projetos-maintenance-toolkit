@@ -1,4 +1,4 @@
-=== Maintenance Toolkit ===
+=== Garion Projetos Maintenance Toolkit ===
 Contributors: garionprojetos
 Tags: maintenance, database, cache, performance, cleanup
 Requires at least: 6.0
