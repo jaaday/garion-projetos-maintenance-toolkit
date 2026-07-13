@@ -1,50 +1,50 @@
-=== WP Maintenance Toolkit ===
+=== Maintenance Toolkit ===
 Contributors: garionprojetos
 Tags: maintenance, database, cache, performance, cleanup
 Requires at least: 6.0
-Tested up to: 6.6
+Tested up to: 7.0
 Requires PHP: 8.0
 Stable tag: 0.1.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Otimizacao e manutencao de sites WordPress: limpeza de banco, cache, Heartbeat API e diagnostico.
+WordPress site optimization and maintenance: database cleanup, cache, Heartbeat API control and diagnostics.
 
 == Description ==
 
-WP Maintenance Toolkit ajuda a manter o WordPress saudavel:
+Maintenance Toolkit helps keep WordPress healthy:
 
-* Limpeza de revisoes
-* Remocao de transients expirados
-* Otimizacao de banco de dados
-* Desativacao de recursos desnecessarios
-* Controle da Heartbeat API
-* Limpeza de cache
-* Painel de diagnostico
-* Verificacao de versao do PHP
-* Validacao de HTTPS
-* Checagem de extensoes (Imagick, Intl)
+* Revision cleanup
+* Expired transient removal
+* Database optimization
+* Disabling unnecessary features
+* Heartbeat API control
+* Cache clearing
+* Diagnostics panel
+* PHP version check
+* HTTPS validation
+* Extension check (Imagick, Intl)
 
-Este plugin nao envia dados para servidores externos. Todo o processamento acontece localmente, no seu proprio site.
+This plugin does not send data to external servers. All processing happens locally, on your own site.
 
 == Installation ==
 
-1. Envie a pasta do plugin para `/wp-content/plugins/`.
-2. Ative o plugin em "Plugins" no painel do WordPress.
-3. Acesse "Ferramentas > WP Maintenance Toolkit" para rodar as rotinas de manutencao.
+1. Upload the plugin folder to `/wp-content/plugins/`.
+2. Activate the plugin from the "Plugins" screen.
+3. Go to "Tools > Maintenance Toolkit" to run the maintenance routines.
 
 == Frequently Asked Questions ==
 
-= Este plugin envia dados para servicos externos? =
+= Does this plugin send data to external services? =
 
-Nao. Todas as rotinas de manutencao rodam localmente no seu servidor.
+No. All maintenance routines run locally on your server.
 
 == Changelog ==
 
 = 0.1.0 =
-* Versao inicial do plugin.
+* Initial release.
 
 == Upgrade Notice ==
 
 = 0.1.0 =
-Versao inicial.
+Initial release.

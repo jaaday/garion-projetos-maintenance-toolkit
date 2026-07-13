@@ -1,4 +1,4 @@
-# Garion Projetos — WordPress Maintenance Toolkit
+# Garion Projetos — Maintenance Toolkit
 
 Plugin WordPress para otimização, limpeza e manutenção de sites.
 
@@ -24,8 +24,8 @@ Plugin WordPress para otimização, limpeza e manutenção de sites.
 ## Estrutura
 
 ```
-wordpress-maintenance-toolkit/
-├── wordpress-maintenance-toolkit.php
+maintenance-toolkit/
+├── maintenance-toolkit.php
 ├── includes/
 ├── admin/
 └── assets/
