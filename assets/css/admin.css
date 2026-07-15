@@ -1,0 +1,30 @@
+.gpmt-tab-content {
+	margin-top: 20px;
+}
+
+.gpmt-status-ok {
+	color: #1a7e3c;
+	font-weight: 600;
+}
+
+.gpmt-status-warning {
+	color: #b32d2e;
+	font-weight: 600;
+}
+
+.gpmt-cards {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+	gap: 16px;
+}
+
+.gpmt-card {
+	background: #fff;
+	border: 1px solid #dcdcde;
+	border-radius: 4px;
+	padding: 16px;
+}
+
+.gpmt-card h2 {
+	margin-top: 0;
+}
